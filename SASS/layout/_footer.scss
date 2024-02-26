@@ -1,0 +1,17 @@
+footer {
+    background-color: #0A0A0A;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-link {
+    color: #717171;
+    font-size: 14px;
+}
+
+.footer-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

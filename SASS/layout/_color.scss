@@ -1,0 +1,13 @@
+.iphones-list {
+    display: flex;
+    gap: 80px;
+    padding-bottom: 150px;
+}
+
+.iphones-list-item {
+    text-align: center;
+}
+
+.iphones-list-item>p {
+    font-size: 14px;
+}

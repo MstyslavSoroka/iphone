@@ -1,0 +1,30 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5F5F7;
+}
+
+.banner-heading {
+    color: #5C00B8;
+    font-size: 64px;
+    font-weight: 700;
+    padding-top: 71px;
+    padding-bottom: 40px;
+}
+
+.banner>img {
+    max-width: 937px;
+    max-height: 657px;
+}
+
+.banner-button {
+    background-color: #490E84;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 40px;
+    padding: 20px 118px 20px 118px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

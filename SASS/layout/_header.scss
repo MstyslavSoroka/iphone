@@ -1,0 +1,37 @@
+header {
+    background-color: #0A0A0A;
+    font-size: 24px;
+}
+
+.header-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+svg {
+    width: 37px;
+    height: 48px;
+}
+
+.header-wrap>svg {
+    margin-left: -140px;
+}
+
+.header-list {
+    display: flex;
+    column-gap: 30px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+
+.header-list-item {
+    color: #717171;
+    font-weight: 400;
+}
+
+.tel {
+    color: #717171;
+    font-size: 24px;
+}
+
